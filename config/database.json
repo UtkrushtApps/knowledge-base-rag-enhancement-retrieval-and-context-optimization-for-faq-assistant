@@ -1,0 +1,4 @@
+{
+  "db_path": "/app/data/db/",
+  "collection": "faq_collection"
+}
