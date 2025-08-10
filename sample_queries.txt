@@ -1,0 +1,10 @@
+How can I reset my password?
+Is two-factor authentication available for my account?
+What is your refund policy for annual plans?
+How do I integrate with Slack or Zapier?
+Describe how payment cycles and invoices are handled.
+How do I escalate a support issue during an incident?
+What security measures do you have for user data?
+What to do if I receive a 500 error when logging in?
+How do I report a bug to technical support?
+Where can I find the product API documentation?
