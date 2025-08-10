@@ -1,0 +1,9 @@
+chromadb==0.4.15
+sentence-transformers==2.2.2
+openai
+numpy
+pandas
+tiktoken
+fastapi
+uvicorn
+langchain
